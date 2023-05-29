@@ -1,0 +1,4 @@
+-Database
+-Login
+-Semua Id input Manual 
+-CRUD data obat(rak, kategori, jenis, keterangan, stock, harga obat, nama obat, id obat)

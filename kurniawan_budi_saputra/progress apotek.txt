@@ -1,0 +1,12 @@
+yg Berfungsi :
+- DB
+- login
+- insert obat
+- insert jenis
+- menampilkan table obat
+- menampilkan table jenis
+
+
+maaf cuma segini pak, soalnya saya 5 hari sakit pak, 
+ hehe :)
+- Kurniawan Budi Saputra XI PPLG 1
