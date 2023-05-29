@@ -1,0 +1,165 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@500&family=Poppins:ital,wght@0,100;0,300;0,400;0,700;1,700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;500&display=swap");
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+li,
+a,
+button {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  color: #edf0f1;
+  text-decoration: none;
+}
+
+header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 10%;
+  background-color: #24252a;
+  z-index: 999;
+}
+
+.logo {
+  cursor: pointer;
+}
+
+.nav_links {
+  list-style: none;
+}
+
+.nav_links li {
+  display: inline-block;
+  padding: 0px 20px;
+}
+
+.nav_links li a {
+  transition: all 0.3s ease 0s;
+}
+
+.nav_links li a:hover {
+  color: #0088a9;
+}
+
+button {
+  padding: 9px 25px;
+  background-color: rgba(0, 136, 169, 1);
+  border: none;
+  border-radius: 50px;
+  cursor: pointer;
+  transition: all 0.3s ease 0s;
+}
+
+button:hover {
+  background-color: rgba(0, 136, 169, 0.8);
+}
+
+/* style table */
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+.content-container {
+  margin-top: 60px; /* Menambahkan margin atas agar konten dimulai setelah header */
+}
+
+.table_responsive {
+  max-width: 900px;
+  border: 1px solid #00bcd4;
+  background-color: #efefef33;
+  padding: 15px;
+  overflow: auto;
+  margin: auto;
+  border-radius: 4px;
+}
+
+table {
+  width: 100%;
+  font-size: 13px;
+  color: #444;
+  white-space: nowrap;
+  border-collapse: collapse;
+}
+
+table > thead {
+  background-color: #00bcd4;
+  color: #fff;
+}
+
+table > thead th {
+  padding: 15px;
+}
+
+table th,
+table td {
+  border: 1px solid #00000017;
+  padding: 10px 15px;
+}
+
+table > tbody > tr > td > img {
+  display: inline-block;
+  width: 60px;
+  height: 60px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 4px solid #fff;
+  box-shadow: 0 2px 6px #0003;
+}
+
+.action_btn {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+
+.action_btn > a {
+  text-decoration: none;
+  color: #444;
+  background: #fff;
+  border: 1px solid;
+  display: inline-block;
+  padding: 7px 20px;
+  font-weight: bold;
+  border-radius: 3px;
+  transition: 0.3s ease-in-out;
+}
+
+.action_btn > a:nth-child(1) {
+  border-color: #26a69a;
+}
+
+.action_btn > a:nth-child(2) {
+  border-color: orange;
+}
+
+.action_btn > a:hover {
+  box-shadow: 0 3px 8px #0003;
+}
+
+table > tbody > tr {
+  background-color: #fff;
+  transition: 0.3s ease-in-out;
+}
+
+table > tbody > tr:nth-child(even) {
+  background-color: rgb(238, 238, 238);
+}
+
+table > tbody > tr:hover {
+  filter: drop-shadow(0px 2px 6px #0002);
+}

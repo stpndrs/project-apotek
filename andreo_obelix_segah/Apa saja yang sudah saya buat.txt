@@ -1,0 +1,12 @@
+- saya sudah menyelesaikan bagian login sebagai admin dan kasir
+  untuk admin : username : Petugas 
+		    password : Admin
+  untuk Kasir : username : Petugas
+		    password : Kasir
+  untuk bagian kasir saya belum menyelesaikan halaman kasir dan bagian transaksi.
+
+- untuk halaman admin saya sudah menyelesaikan. - CRUD pada table obat 
+								- CRUD pada table kategori 
+						  	      - CRUD pada bagian jenis obat
+								- CRUD pada lokasi rak
+- Databasenya saya juga sudah menyelesaikannya.
