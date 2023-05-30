@@ -1,0 +1,5 @@
+-LOGIN
+PASS= ADMIN = admin admin
+	PETUGAS  = petugas petugas
+
+-CRUD (JENIS,KATEGORI,RAK,OBAT)
