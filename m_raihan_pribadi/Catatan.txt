@@ -1,0 +1,23 @@
+Muhammad Raihan Pribadi
+XI PPLG 1
+
+APOTEKER---
+LOGIN AKUN 
+Admin : raihan | pw : raihan
+Manajer : siskae | pw : siskae
+Gudang : gilang | pw : gilang
+
+To do List : 
+Database : Done
+Relasi : Done
+Menu Login : Done (Template Bootstrap)
+Dashboard : Done (Template Bootstrap)
+Beranda : Done (Tambahkan Data)
+Data obat : Done (Ubah data dan delete data)
+Riwayat obat masuk : Done
+Laporan : Belum
+Akun : Done (tambah akun, blokir akun, dan Edit Username, nama, password, email,hak akses, foto profil,nomer telp)
+Ubah Pass akun : Done
+
+CATATAN---
+kadang kalo mau masukan data obat baru, data nya gak muncul di stok obat 
