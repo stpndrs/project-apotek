@@ -1,0 +1,7 @@
+List Selesai
+- ALL CRUD kecuali Insert User 
+- Login 
+- Db_Apoteker
+List Belum 
+- Kasir
+- Obat masuk

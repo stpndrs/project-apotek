@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+  }
+  
+  body {
+      background-image: url(bgbiru.jpg);
+      background-size: cover;
+      background-position: center;
+      font-family: sans-serif;
+  }
+  
+  .form-box {
+      width: 500px;
+      background: rgba(196, 207, 231, 0.8);
+      margin: 12% auto;
+      padding: 50px 0;
+      color: #000000;
+      box-shadow: 0 0 20px 2px rgba(0,0,0,0.5);
+  }
+  
+  h1 {
+      text-align: center;
+      margin-bottom: 40px;
+  }
+  
+  .input-box {
+      
+      
+      border-bottom: 1px solid #000;
+      padding-top: 10px;
+      padding-bottom: 5px;
+  }
+  
+  .input-box input{
+     
+      
+      color: #000;
+  }
+  
+  
+  
+ .login-card-body{
+    border-radius: 10%;
+ }
