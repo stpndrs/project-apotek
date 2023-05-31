@@ -1,0 +1,21 @@
+Email : ihsan10@gmail.com
+Pw : 1234
+
+Progress Aplikasi Apotek Ihsan 31/5/2023
+
+Selesai :
+login
+logout
+CRUD Jenis Obat
+CRUD Kategori Obat
+CRUD Lokasi Obat
+CRUD Stok Obat
+CRUD Obat
+CRUD Karyawan
+CRUD User
+
+Belum Selesai :
+Dashboard
+Transaksi Obat
+Struk Transaksi
+Laporan Transaksi
