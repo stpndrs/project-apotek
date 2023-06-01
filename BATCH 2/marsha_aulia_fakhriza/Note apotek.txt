@@ -1,0 +1,9 @@
+Nama : Marsha Aulia
+Kelas : XI PPLG 1
+
+saya baru mengerjakan Database, Halaman Login, Halaman Petugas, Rak obat, Dan Menu Obat
+Untuk login -admin
+		pw : admin
+
+		petugas
+		pw:petugas
